@@ -1,0 +1,197 @@
+*{
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+   background-color: white;
+   font-family: sans-serif;
+}
+
+.header{
+    display: flex;
+    padding: 30px;
+    margin-bottom: 50px;
+
+}
+
+.nav-links {
+
+    list-style-type: none;
+    word-spacing: 25px;
+    margin-left: 100px;
+}
+
+.nav-links li {
+
+    display: inline-block;
+    
+}
+
+.nav-links li a {
+
+    text-decoration: none;
+}
+
+nav {
+
+    padding: 15px;
+    display:flex;
+
+
+    
+
+}
+
+.btn{
+
+ border-radius: 20px;
+ font-size: 15px;
+ padding-left: 30px;
+ padding-right: 30px;
+ padding-bottom: 8px;
+ padding-top: 8px;
+ background-color: black;
+ color: white;
+
+}
+
+
+
+
+.mainsection {
+  
+    margin:auto;
+    width: 50%;
+    text-align: center;
+    margin-bottom: 40px;
+    line-height: 30px;
+
+}
+
+.mainsection h1{
+
+    margin-bottom: 20px;
+}
+
+.mainsection p{
+    margin-bottom: 20px;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+.pic{
+
+    width:100%;
+    height:200px;
+    object-fit:fill;
+    
+}
+
+.section{
+    margin:auto;
+    width: 70%;
+}
+
+.big-card{
+     
+    
+    height:370px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    
+    
+    
+
+}
+
+.box{
+  width: 215px;
+  height: 340px;
+  border: 2px solid white ;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 15px;
+  box-shadow:0px 0px 3px 3px #f7f2f2dd;
+  
+
+}
+
+.box img{
+    width: 100%;
+    height:60%; 
+}
+
+.img{
+   object-fit: cover;
+}
+
+.down-part{
+    display: flex;
+    justify-content:space-around ;
+    margin-top: 50px;
+    line-height:43px;
+}
+ 
+ul{
+    list-style-type: none;
+}
+
+.main{
+    height: 400px;
+
+}
+
+.butt{
+    margin: auto;
+    width: 50%;
+    text-align: center;   
+}
+
+button{
+    border-radius: 20px;
+    font-size: 13px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+    background-color: black;
+    color: white;
+
+}
+
+.container{
+    line-height: 22px;
+    margin: 5px;
+    font-size: 15px;
+}
+
+form{
+    margin-top: 30px;
+    
+}
+ select{
+    padding-left: 10px;
+    padding-right: 100px;
+    padding-top: 7px;
+    padding-bottom: 8px;
+ }
+
+ 
+
+
+   
+ 
+
+
+
+
+
+    
+ 
+
+
+
+
+
